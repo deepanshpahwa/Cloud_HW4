@@ -675,10 +675,10 @@ YELLO   10
 OMM     1
 ```
 
-#Prerequisites
+# Prerequisites
 VPN, Internet, A hadoop cluster.
 
-References
+# References
 http://www.michael-noll.com/tutorials/writing-an-hadoop-mapreduce-program-in-python/
 
 
