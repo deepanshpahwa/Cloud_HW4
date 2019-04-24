@@ -1,4 +1,4 @@
-# Cloud Computing
+# Cloud Computing - Hadoop Clusters
 
 Data of all the accidents in the state of New York was collected. This data contains over 900,000 records and is almost 175MB in size.
 Using the Hadoop Streaming API, we built mapper and reducer scripts that analyze the data and summarizes counts for each type of vehicle 
